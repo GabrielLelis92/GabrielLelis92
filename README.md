@@ -1,6 +1,6 @@
 - @GabrielLelis92
 - 
 - Estou iniciando como desenvolvedor.
-🏠 Moro em Londrina-PR, Brasil
-🧠 Aprendendo mais sobre programção
-
+- Moro em Londrina-PR, Brasil
+- Aprendendo mais sobre programção
+- Estou em busca de novas oportunidades e desafios.
